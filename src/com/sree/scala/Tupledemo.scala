@@ -1,5 +1,9 @@
 package com.sree.scala
 
+/*
+ * demo of passing funtions b/n functions
+ */
+
 object FunctionPassing {
   
   
